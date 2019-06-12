@@ -10,7 +10,7 @@ public class Asd {
 		Scanner hi = new Scanner(System.in);
 		float x = hi.nextFloat();
 		
-		if (x >= 1.99 && nu <=5.99) {
+		if (x >= 1.99 && x <=5.99) {
 			System.out.println("O número está entre 1,99 e 5,99: ");
 		}
 		else {
